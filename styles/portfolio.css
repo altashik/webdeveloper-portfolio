@@ -1,0 +1,9 @@
+/* Common shared styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* Nav related style */
+nav{
+    display:flex;
+    list-style: none;
+}
